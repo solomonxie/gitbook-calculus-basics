@@ -1,2 +1,2 @@
-# solomons-math-notes
-Better organized Math notebook with Readthedocs.
+# Solomon's Math Book
+Better organized Math notebook.
