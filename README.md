@@ -1,3 +1,6 @@
-# My Awesome Book
+# Calculus Basics
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> Notes on basic Calculus concepts.
+
+
+
