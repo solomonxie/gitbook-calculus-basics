@@ -1,4 +1,7 @@
 {
+    "title": "Calculus Notebook",
+    "author": "Solomon Xie",
+
     "plugins": [
         "todo",
         "fontsettings",
@@ -6,6 +9,21 @@
         "lunr",
         "search",
         "highlight",
-        "livereload"
-    ]
+        "livereload",
+        "anchors",
+        "autocover",
+        "disqus",
+        "ga"
+    ],
+
+
+    "pluginsConfig": {
+        "disqus": {"shortName": "solomonxie-books"},
+        "ga": {"token": "UA-XXXX-Y"},
+        "autocover": {
+            "font": {"size": null, "family": "Impact", "color": "#FFF"},
+            "size": {"w": 1800, "h": 2360 },
+            "background": {"color": "#09F"}
+        }
+    }
 }

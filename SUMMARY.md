@@ -1,4 +1,3 @@
-
 * [▶ Limit & Continuity](comment-389065252.md)
     * [Limit properties & Limits of Combined Functions](comment-388416883.md)
     * [Limits at infinity](comment-389097947.md)
