@@ -46,7 +46,7 @@
     * [Logistic Growth Model](comment-396537354.md)
     * [Slope Field](comment-396852129.md)
     * [Euler's Method](comment-396852203.md)
-* [▶ Applications of definite integrals](https://github.com/solomonxie/solomonxie.github.io/issues/49)
+* [▶ Applications of definite integrals](#)
     * [Area under Rate function](comment-398313540.md)
     * [Motion problems](comment-398340530.md)
     * [Planar motion](comment-398346952.md)
